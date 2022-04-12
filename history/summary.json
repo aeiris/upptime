@@ -4,18 +4,20 @@
     "url": "http://geograffiti.xyz",
     "icon": "https://favicons.githubusercontent.com/geograffiti.xyz",
     "slug": "geograffiti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 463,
-    "timeWeek": 745,
-    "timeMonth": 662,
-    "timeYear": 662,
-    "dailyMinutesDown": {}
+    "time": 646,
+    "timeDay": 482,
+    "timeWeek": 715,
+    "timeMonth": 646,
+    "timeYear": 646,
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   },
   {
     "name": "Vía Inqueda",
