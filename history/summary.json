@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/geograffiti.xyz",
     "slug": "geograffiti",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 689,
-    "timeDay": 464,
-    "timeWeek": 719,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 679,
+    "timeDay": 547,
+    "timeWeek": 722,
+    "timeMonth": 679,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2022-04-12": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 506,
-    "timeWeek": 581,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "time": 602,
+    "timeDay": 453,
+    "timeWeek": 582,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {}
   }
 ]
