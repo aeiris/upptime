@@ -4,7 +4,7 @@
     "url": "http://geograffiti.xyz",
     "icon": "https://favicons.githubusercontent.com/geograffiti.xyz",
     "slug": "geograffiti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 732,
     "timeYear": 742,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-06-23": 125,
       "2022-06-03": 56,
       "2022-05-22": 55,
