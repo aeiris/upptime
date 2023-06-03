@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 823,
-    "timeDay": 459,
-    "timeWeek": 607,
-    "timeMonth": 680,
+    "time": 822,
+    "timeDay": 722,
+    "timeWeek": 621,
+    "timeMonth": 678,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2023-02-26": 100,
@@ -41,8 +41,7 @@
       "2022-07-01": 172,
       "2022-06-30": 57,
       "2022-06-27": 52,
-      "2022-06-23": 125,
-      "2022-06-03": 56
+      "2022-06-23": 125
     }
   },
   {
@@ -51,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/viainqueda.com.ico",
     "slug": "via-inqueda",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 679,
-    "timeDay": 399,
-    "timeWeek": 569,
-    "timeMonth": 585,
+    "timeDay": 634,
+    "timeWeek": 570,
+    "timeMonth": 587,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2023-02-01": 60,
