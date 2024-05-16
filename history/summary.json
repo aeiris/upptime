@@ -4,7 +4,7 @@
     "url": "http://geograffiti.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/geograffiti.xyz.ico",
     "slug": "geograffiti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 650,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2024-05-16": 0,
       "2024-04-30": 57,
       "2024-02-29": 56,
       "2024-02-11": 69,
