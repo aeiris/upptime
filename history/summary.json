@@ -4,12 +4,12 @@
     "url": "http://geograffiti.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/geograffiti.xyz.ico",
     "slug": "geograffiti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "95.29%",
+    "uptimeDay": "95.27%",
     "uptimeWeek": "89.16%",
     "uptimeMonth": "92.00%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.54%",
     "time": 731,
     "timeDay": 768,
     "timeWeek": 765,
@@ -89,8 +89,7 @@
       "2025-11-03": 52,
       "2025-10-28": 49,
       "2025-09-26": 49,
-      "2025-09-23": 115,
-      "2025-09-05": 65
+      "2025-09-23": 115
     }
   },
   {
@@ -98,12 +97,12 @@
     "url": "https://viainqueda.com",
     "icon": "https://icons.duckduckgo.com/ip3/viainqueda.com.ico",
     "slug": "via-inqueda",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "95.31%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "89.18%",
     "uptimeMonth": "91.88%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 579,
     "timeDay": 768,
     "timeWeek": 629,
@@ -186,8 +185,7 @@
       "2025-10-28": 49,
       "2025-09-26": 49,
       "2025-09-23": 115,
-      "2025-09-05": 64,
-      "2025-08-05": 58
+      "2025-09-05": 64
     }
   }
 ]
