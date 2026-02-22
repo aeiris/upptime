@@ -4,18 +4,19 @@
     "url": "http://geograffiti.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/geograffiti.xyz.ico",
     "slug": "geograffiti",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "98.50%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "98.51%",
     "time": 733,
     "timeDay": 724,
-    "timeWeek": 794,
-    "timeMonth": 800,
+    "timeWeek": 789,
+    "timeMonth": 802,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2026-02-22": 0,
       "2026-02-21": 142,
       "2026-02-20": 139,
       "2026-02-19": 64,
@@ -88,8 +89,7 @@
       "2025-11-13": 66,
       "2025-11-12": 117,
       "2025-11-09": 119,
-      "2025-11-08": 60,
-      "2025-11-03": 52
+      "2025-11-08": 60
     }
   },
   {
@@ -97,18 +97,19 @@
     "url": "https://viainqueda.com",
     "icon": "https://icons.duckduckgo.com/ip3/viainqueda.com.ico",
     "slug": "via-inqueda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "90.20%",
-    "uptimeWeek": "91.49%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "98.24%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "98.25%",
     "time": 580,
     "timeDay": 558,
-    "timeWeek": 655,
-    "timeMonth": 636,
+    "timeWeek": 645,
+    "timeMonth": 639,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2026-02-22": 0,
       "2026-02-21": 141,
       "2026-02-20": 139,
       "2026-02-19": 64,
@@ -184,8 +185,7 @@
       "2025-11-09": 119,
       "2025-11-08": 60,
       "2025-11-03": 1035,
-      "2025-11-02": 288,
-      "2025-10-28": 49
+      "2025-11-02": 288
     }
   }
 ]
